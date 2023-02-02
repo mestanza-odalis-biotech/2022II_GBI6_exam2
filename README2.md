@@ -1,6 +1,6 @@
 Cree un archivo Readme.md que debe tener lo siguiente:
 Datos personales
-**Apellidos y Nombres:** Mestanza Manotoa Odalis Mishel
+- **Apellidos y Nombres:** Mestanza Manotoa Odalis Mishel
 - **Edad:** 22 años
 - **Ciudad:** Quito
 - **Fecha de Nacimiento:** 06/06/2000
